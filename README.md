@@ -1,6 +1,7 @@
 # First-project
 
 Introduction: 
+
 Business case: I am a data analyst in a firm specialized in retail and e-commerce consulting. For this project I looked at 'footwear data' from Shein platfom in fashion industry. Main objective is to analyze customer behavior and propose the best selling product category. 
 Problem statement: Which factors influence the customer’s rating per footwear category? 
 
