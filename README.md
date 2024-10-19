@@ -20,7 +20,9 @@ Footwear with the high price difference (retail price and sales price) are more 
 Data preparation and cleaning: 
 
 Dataframe was obtained by concatinating data from 13 pages of the Shein platform, and setting keywords in search bar (param=querystring{}) as 'shoes'
+
 The data contained nested lists and dictionaries, json_normalization used which flattening it added to the number of columns. 
+
 Data cleaning techniques used for dropping unnecessary columns, duplicates, null values, fillna, renaming, changing data types
 
 For more specific information on cleaning data please refer to the Jupyter Notebook in our repo
