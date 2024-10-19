@@ -17,6 +17,7 @@ H3: Price difference or discount price
 Footwear with the high price difference (retail price and sales price) are more likely to have high ranking among customers.
 
 Data preparation and cleaning: 
+
 Dataframe was obtained by concatinating data from 13 pages of the Shein platform, and setting keywords in search bar (param=querystring{}) as 'shoes'
 The data contained nested lists and dictionaries, json_normalization used which flattening it added to the number of columns. 
 Data cleaning techniques used for dropping unnecessary columns, duplicates, null values, fillna, renaming, changing data types
@@ -24,6 +25,7 @@ Data cleaning techniques used for dropping unnecessary columns, duplicates, null
 For more specific information on cleaning data please refer to the Jupyter Notebook in our repo
 
 Findings: 
+
 H1: Fit accuracy or fit true to size: Validated as 97% of customers rated the footwear to be true to size. 
 H2: Duration of delivery: Rejected as 96% of customers No quick delivery rated higher than thoes had quick delivery. 
 H3: Price difference or discount price: Not validated, price difference of $10 had higher rank in comparison to a higher discount price $13
