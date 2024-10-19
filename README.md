@@ -5,10 +5,12 @@ Business case: I am a data analyst in a firm specialized in retail and e-commerc
 Problem statement: Which factors influence the customer’s rating per footwear category? 
 
 Hypotheses:
+
 H1: Fit accuracy or fit true to size 
 Footwear with more than 70% of percentage overall fit true to size are more likely to have high ranking among customers.
 H2: Duration of delivery
 Faster delivery times increase the likelihood of footwear receiving higher customer ranking rates.
+
 H3: Price difference or discount price
 Footwear with the high price difference (retail price and sales price) are more likely to have high ranking among customers.
 
